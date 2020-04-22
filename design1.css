@@ -1,0 +1,35 @@
+
+h1{
+  color: black;
+  font-family: Geneva;
+  text-align: center;
+  padding: 30px;
+  border: 3px solid black;
+}
+
+li{
+  margin: 0 2vw;
+  font-size: 3vh;
+  list-style-type: none; <!-- removing the bullet points --!>
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  width: 100vw;
+}
+
+nav{
+  width: 100vw;
+  background-color: #d05c57;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+a:hover{
+  background-color: white;
+
+}
