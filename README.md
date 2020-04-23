@@ -2,8 +2,9 @@
 
 The website is going to have at least 4 webpages which are:
   -page1(visual page)  - Home  - Blog  - About - Contact - Copyright
-  
+
 - page1: first ever page the user sees. It will have an image and a welcome message
+CHANGED TO HOME BECAUSE IT MADE NO SENSE.
 
 - Home: A small intro to the content of the website and what to expect and find
 
